@@ -1,0 +1,7 @@
+{
+  "name": "Book Scout: AI Cover Scanner",
+  "description": "An intelligent web app to identify books from their cover images using AI, allowing you to discover details and manage your reading collection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
