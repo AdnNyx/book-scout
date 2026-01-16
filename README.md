@@ -31,6 +31,7 @@ Book-Scout/
 ├── package.json         # Dependencies & scripts
 ├── tsconfig.json        # TypeScript configuration
 ├── vite.config.ts       # Vite configuration
+├── .env                 # API configuration
 └── README.md            # Documentation
 
 ````
